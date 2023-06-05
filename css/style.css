@@ -1,0 +1,12 @@
+#tabmenu {
+  text-align: center;
+}
+#tabmenu .my-btn {
+  box-shadow: none;
+}
+#tabmenu div {
+  display: none;
+}
+#tabmenu .active {
+  display: block;
+}/*# sourceMappingURL=style.css.map */

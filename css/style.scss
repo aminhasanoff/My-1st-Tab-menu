@@ -1,0 +1,12 @@
+#tabmenu{
+    .my-btn{
+        box-shadow: none;
+    }
+    text-align: center;
+    div{
+        display: none;
+    }
+    .active{
+        display: block;
+    }
+}
